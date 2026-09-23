@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="amberGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#b45309" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="120" fill="url(#amberGrad)" />
+  <g fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="900" font-size="215">
+    <text x="105" y="325">M</text>
+    <text x="275" y="325">A</text>
+  </g>
+  <!-- Intelligent bridge line between M and A -->
+  <line x1="255" y1="275" x2="285" y2="275" stroke="#fef3c7" stroke-width="12" stroke-linecap="round" />
+  <!-- Precision AI spark dot above A -->
+  <circle cx="375" cy="140" r="14" fill="#fef3c7" />
+  <circle cx="375" cy="140" r="7" fill="#d97706" />
+</svg>
